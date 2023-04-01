@@ -51,7 +51,8 @@ AI Review Fin     | /api/exam/ai/{:examSubmissionId} | O | | |
 
 
 # 실제 코드들
-https://github.com/softeerbootcamp/Team8_FullStack/tree/dev/Backend/src/main/java/site/devroad/softeer/src/exam
+[https://github.com/rohsik2/Team8_FullStack/tree/dev/Backend/src/main/java/site/devroad/softeer/src/exam]
+(https://github.com/rohsik2/Team8_FullStack/tree/dev/Backend/src/main/java/site/devroad/softeer/src/exam)
 
 
 # 리뷰 해주십사 하는 파트들
